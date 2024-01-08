@@ -69,4 +69,58 @@ body {
 }
 .section-header {
   display: flex;
+  background-image: url("../images/Vectorrr.png");
+}
+/*--party adress section */
+.party-section {
+  padding: 130px;
+  border-radius: 10px;
+  background: #fff8f3;
+  margin: 130px 0;
+  fill: linear-gradient(
+    180deg,
+    rgba(255, 0, 106, 0.219) 0%,
+    rgba(255, 0, 0, 0) 100%
+  );
+}
+.party-adress {
+  text-align: center;
+  margin: 120px;
+}
+.party {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px; /* 175% */
+  text-transform: capitalize;
+}
+.party-hotel {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+.party-date {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+.party-time {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
 }
